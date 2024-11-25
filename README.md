@@ -25,7 +25,6 @@ Este proyecto fue realizado el semestre 2022-2 y 2023-1 de mi carrera universita
 This project was carried out in the semester 2022-2 and 2023-1 of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:
 
 <br>
-<br>
 
 -Xavier Andrés De La Hoz Salas<br>
 -Enzo Junior De Leon Pineda<br>
