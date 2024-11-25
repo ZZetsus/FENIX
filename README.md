@@ -18,8 +18,6 @@ This project was developed using PHP, HTML, and CSS, all running in a XAMPP deve
 {Español}
 <br>
 Este proyecto fue realizado el semestre 2022-2 y 2023-1 de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:
-
-<br>
 <br>
 
 {English}
