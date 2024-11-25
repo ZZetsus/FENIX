@@ -1,0 +1,214 @@
+
+.gray-fieldset {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f2f2f2;
+   height: 500px;
+}
+
+input[type="text"] {
+	width: 500px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+}
+.card-container {
+    display: flex; 
+    justify-content: center; 
+}
+
+.round-card {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 50px;
+}
+
+
+.gray-fieldset2 {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f2f2f2;
+ 
+}
+.gray-fieldset3 {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f2f2f2;
+   height: 350px;
+}
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal:target {
+  display: block;
+}
+
+.modal-content {
+  background-color: #fff;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%;
+  max-width: 400px;
+}
+
+.close {
+  position: absolute;
+  top: 5px;
+  right: 50px;
+  font-size: 24px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.close:hover {
+  color: #f00;
+}
+
+.modal1 {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal1:target {
+  display: block;
+}
+
+.modal1-content {
+  background-color: #fff;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%;
+  max-width: 400px;
+}
+
+.close1 {
+  position: absolute;
+  top: 5px;
+  right: 50px;
+  font-size: 24px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.close1:hover {
+  color: #f00;
+}
+.card-container1 {
+    display: flex; /* Establece el contenedor como flexbox */
+    justify-content: center; /* Centra las tarjetas horizontalmente */
+}
+
+.modal1 {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal3:target {
+  display: block;
+}
+
+.modal4-content {
+  background-color: #fff;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%;
+  max-width: 400px;
+}
+
+.close3 {
+  position: absolute;
+  top: 35px;
+  right: 50px;
+  font-size: 24px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.close3:hover {
+  color: #f00;
+}
+.card-container3 {
+    display: flex; /* Establece el contenedor como flexbox */
+    justify-content: center; /* Centra las tarjetas horizontalmente */
+}
+
+.round-card1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 50px;
+}
+
+ h3 {
+      color: white;
+    }
+
+.boton-derecha {
+      float: right;
+   }
+ 
+.card {
+  width: 60%;
+  height: 50%;
+}
+
+.columnas {
+  display: flex;
+}
+
+.columna {
+  flex: 1;
+  
+}
+
+.columna:last-child {
+  margin-right: 0; 
+}
+
+
+
+
+
+
+
+
+   
+   
+
+
+
+
+
+
